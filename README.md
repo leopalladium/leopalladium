@@ -33,6 +33,14 @@ I balance the macro and the micro—managing complex project lifecycles while wr
 
 ---
 
+### 📈 Github Stats
+
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
+
+---
+
 ### ⚡ Random Bytes
 - **PM Mode:** I can explain a Gantt chart and a Borrow Checker in the same meeting.
 - **Hot Take:** If it’s not type-safe, it’s a liability.
